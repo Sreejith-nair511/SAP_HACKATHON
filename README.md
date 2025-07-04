@@ -1,7 +1,4 @@
-Hospital Blockchain DApp
-markdown
-Copy
-Edit
+
 # 🏥 Hospital Blockchain DApp
 
 A decentralized healthcare platform to securely manage and access patient records using blockchain and IPFS. Designed for hospitals, doctors, and patients to ensure **privacy**, **integrity**, and **transparency** of medical data.
