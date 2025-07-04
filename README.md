@@ -46,6 +46,10 @@ A decentralized healthcare platform to securely manage and access patient record
 ![Screenshot 2025-07-04 153849](https://github.com/user-attachments/assets/511ddfd6-74a1-4119-8fbd-7de65f0a229d)
 ![Screenshot 2025-07-04 153904](https://github.com/user-attachments/assets/1215a59e-ddce-4567-9003-7fc9e0b56207)
 
+https://hospital-blockchain-dashboard.vercel.app/dashboard
+![image](https://github.com/user-attachments/assets/410018b7-58ba-4b1c-a87b-f879e1930d82)
+
+
 
 ### 🛠️ Installation
 
