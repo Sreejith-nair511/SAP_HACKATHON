@@ -39,7 +39,13 @@ A decentralized healthcare platform to securely manage and access patient record
 - MetaMask (browser extension)
 - IPFS node (optional: Infura or Web3.Storage)
 
----
+- THE FIGMA  UI DESGIN AND IDEATION
+
+![Screenshot 2025-07-04 153816](https://github.com/user-attachments/assets/1951eec4-bd75-4080-88c2-5906ba3341fa)
+![Screenshot 2025-07-04 153833](https://github.com/user-attachments/assets/7ca2b489-01f6-4eef-bfae-a051120e3e48)
+![Screenshot 2025-07-04 153849](https://github.com/user-attachments/assets/511ddfd6-74a1-4119-8fbd-7de65f0a229d)
+![Screenshot 2025-07-04 153904](https://github.com/user-attachments/assets/1215a59e-ddce-4567-9003-7fc9e0b56207)
+
 
 ### 🛠️ Installation
 
@@ -87,9 +93,5 @@ Tailwind UI
 
 ShadCN/UI Components
 
-THE FIGMA  UI DESGIN AND IDEATION
 
-![Screenshot 2025-07-04 153816](https://github.com/user-attachments/assets/1951eec4-bd75-4080-88c2-5906ba3341fa)
-![Screenshot 2025-07-04 153833](https://github.com/user-attachments/assets/7ca2b489-01f6-4eef-bfae-a051120e3e48)
-![Screenshot 2025-07-04 153849](https://github.com/user-attachments/assets/511ddfd6-74a1-4119-8fbd-7de65f0a229d)
-![Screenshot 2025-07-04 153904](https://github.com/user-attachments/assets/1215a59e-ddce-4567-9003-7fc9e0b56207)
+
